@@ -5,8 +5,8 @@ const apiRoutes = require('./routes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes');
 const router = require('express').Router();
 
-const app = express()
-const PORT = process.env.PORT || 3001
+const app = express();
+const PORT = process.env.PORT || 3001;
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -18,13 +18,4 @@ app.listen(PORT, () => {
     console.log('App listening on PORT: ${port}')
 })
 
-// app.use()
-
-// app.get('/', (req, res) => {
-//     res.send('Welcome to the ROOT')
-// })
-
-// router.get('/notes', (rew,res) => {
-//     res.sendFile(path.join(_dirname, './public/index.html'))
-// })
 
