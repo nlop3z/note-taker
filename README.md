@@ -3,6 +3,7 @@
 ## Built with:
 * JavaScript
 * Express.js
+* Node.js
 
 ## URL Heroku deployed application:
 https://notetakernelly.herokuapp.com/notes
