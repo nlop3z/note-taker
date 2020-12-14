@@ -11,5 +11,5 @@ https://notetakernelly.herokuapp.com/notes
 https://github.com/nlop3z/note-taker
 
 
-## Screenshot of README Generator:
+## Screenshot of Note Taker:
 ![This is a screenshot of Note Taker](/public/assets/images/screenshot.PNG)
