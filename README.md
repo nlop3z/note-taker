@@ -4,8 +4,8 @@
 * JavaScript
 * Express.js
 
-## URL deployed application:
-https://nlop3z.github.io/note-taker/
+## URL Heroku deployed application:
+https://notetakernelly.herokuapp.com/notes
 
 ## URL GitHub repository:
 https://github.com/nlop3z/note-taker
