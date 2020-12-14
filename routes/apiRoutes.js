@@ -9,6 +9,7 @@ router.get("/notes", (req, res) => {
 });
 
 router.post("/notes", (req, res) => {
+    console.log(req.body);
     store
     .addNote(req.body)
     .then((note) => res.json(note))
